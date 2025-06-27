@@ -5,6 +5,10 @@
 
 - 🌱 I’m currently learning **Azure 400**
 
+- 👯 I’m looking to collaborate on **Cloud Native Projects**
+
+- 🤝 I’m looking for help with **Devops**
+
 - 💬 Ask me about **CICD, Docker, Kubernetes, Cost effctive deployment**
 
 - 📫 How to reach me **laposki91@gmail.com**
